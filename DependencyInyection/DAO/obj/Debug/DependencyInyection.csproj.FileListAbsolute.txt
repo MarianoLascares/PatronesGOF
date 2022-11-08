@@ -1,0 +1,8 @@
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\DependencyInyection\DAO\bin\Debug\DAO.exe.config
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\DependencyInyection\DAO\bin\Debug\DAO.exe
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\DependencyInyection\DAO\bin\Debug\DAO.pdb
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\DependencyInyection\DAO\obj\Debug\DependencyInyection.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\DependencyInyection\DAO\obj\Debug\DependencyInyection.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\DependencyInyection\DAO\obj\Debug\DependencyInyection.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\DependencyInyection\DAO\obj\Debug\DAO.exe
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\DependencyInyection\DAO\obj\Debug\DAO.pdb

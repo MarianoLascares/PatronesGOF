@@ -1,0 +1,8 @@
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Facade\Facade\bin\Debug\Facade.exe.config
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Facade\Facade\bin\Debug\Facade.exe
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Facade\Facade\bin\Debug\Facade.pdb
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Facade\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Facade\Facade\obj\Debug\Facade.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Facade\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Facade\Facade\obj\Debug\Facade.exe
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Facade\Facade\obj\Debug\Facade.pdb

@@ -1,0 +1,8 @@
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Proxy\Proxy\obj\Debug\Proxy.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Proxy\Proxy\obj\Debug\Proxy.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Proxy\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Proxy\Proxy\bin\Debug\Proxy.exe
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Proxy\Proxy\bin\Debug\Proxy.pdb
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Proxy\Proxy\obj\Debug\Proxy.exe
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Proxy\Proxy\obj\Debug\Proxy.pdb

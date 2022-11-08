@@ -1,0 +1,8 @@
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Memento\Memento\bin\Debug\Memento.exe.config
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Memento\Memento\bin\Debug\Memento.exe
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Memento\Memento\bin\Debug\Memento.pdb
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Memento\Memento\obj\Debug\Memento.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Memento\Memento\obj\Debug\Memento.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Memento\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Memento\Memento\obj\Debug\Memento.exe
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Memento\Memento\obj\Debug\Memento.pdb

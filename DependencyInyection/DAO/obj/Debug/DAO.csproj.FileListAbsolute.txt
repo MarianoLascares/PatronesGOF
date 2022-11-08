@@ -1,0 +1,8 @@
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\DAO\DAO\bin\Debug\DAO.exe.config
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\DAO\DAO\bin\Debug\DAO.exe
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\DAO\DAO\bin\Debug\DAO.pdb
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\DAO\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\DAO\DAO\obj\Debug\DAO.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\DAO\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\DAO\DAO\obj\Debug\DAO.exe
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\DAO\DAO\obj\Debug\DAO.pdb

@@ -1,0 +1,8 @@
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Command\Command\bin\Debug\Command.exe.config
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Command\Command\bin\Debug\Command.exe
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Command\Command\bin\Debug\Command.pdb
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Command\Command\obj\Debug\Command.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Command\Command\obj\Debug\Command.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Command\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Command\Command\obj\Debug\Command.exe
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Command\Command\obj\Debug\Command.pdb

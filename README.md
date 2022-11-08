@@ -1,0 +1,2 @@
+# PatronesGOF
+ patrones GOF

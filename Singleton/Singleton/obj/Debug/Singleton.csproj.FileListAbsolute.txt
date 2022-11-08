@@ -1,0 +1,8 @@
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Singleton\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Singleton\Singleton\obj\Debug\Singleton.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\maria\OneDrive\Documentos\Quark\PatronesGOF\Singleton\Singleton\obj\Debug\Singleton.pdb
